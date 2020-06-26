@@ -42,10 +42,4 @@ echo $tags[$BaseTempl];
 
 //var_dump($tags);
 
-//$content = file_get_contents("./templ/index.html");
-
-
-
-//echo $content;
-
 ?>
